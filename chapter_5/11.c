@@ -46,7 +46,7 @@ int main(void) {
     }
 
     printf("You entered the number ");
-    
+
     switch (dig1) {
         case 2:
             printf("twenty");
